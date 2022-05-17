@@ -4,9 +4,7 @@
              x:Class="WeatherAPIRest.Views.WeatherPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label Text="Welcome to Xamarin.Forms!" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

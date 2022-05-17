@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace WeatherAPIRest.Model
+namespace WeatherAPIRest.Services
 {
-    public class EntryModel
+    public class TodoManager
     {
     }
 }

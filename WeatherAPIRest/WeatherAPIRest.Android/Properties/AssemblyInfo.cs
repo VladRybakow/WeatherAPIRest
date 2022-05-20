@@ -14,9 +14,9 @@ using Android.App;
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
+
+
 [assembly: Application(UsesCleartextTraffic = true)]
-
-
 
 
 [assembly: AssemblyVersion("1.0.0.0")]

@@ -28,7 +28,7 @@ namespace WeatherAPIRest.Droid
         protected override void OnStart()
         {
             base.OnStart();
-            if ((int)Build.VERSION.SdkInt >= 23)
+            if ((int) Build.VERSION.SdkInt >= 23)
             {
                 if (CheckSelfPermission(Manifest.Permission.AccessCoarseLocation) != Permission.Granted)
                 {
